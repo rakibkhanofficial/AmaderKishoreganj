@@ -4,7 +4,7 @@
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">Amader Kishoreganj</string>
     <string name="second_fragment_label">Full Article</string>
-    <string name="next">Full Article Here</string>
+    <string name="next">Click Here To See Full Article</string>
 
     <string name="previous">Go Back</string>
 
